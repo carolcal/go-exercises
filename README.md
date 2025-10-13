@@ -16,14 +16,14 @@ In this repository, each folder represents a single exercise.
 
 ---
 
-## 📘 About Exercism
+## About Exercism
 
 [Exercism](https://exercism.org/profiles/carolcal) is a platform that provides hands-on programming exercises in multiple languages.
 Each exercise focuses on a specific concept — from basic syntax and control flow to advanced topics like concurrency and interfaces.
 
 ---
 
-## 💡 Topics Covered
+## Topics Covered
 
 * Variables and constants
 * Functions and error handling
@@ -34,7 +34,7 @@ Each exercise focuses on a specific concept — from basic syntax and control fl
 
 ---
 
-## 📄 License
+## License
 
 This repository is for educational purposes only.
 All exercises are based on content provided by [Exercism.io](https://exercism.org/profiles/carolcal).

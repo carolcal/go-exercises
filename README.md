@@ -8,6 +8,7 @@ I created it to practice Go, explore idiomatic patterns, and track my progress w
 ## My Journey Through Go
 
 Here’s the path I followed on Exercism to learn Go, covering topics from the very basics to more advanced concepts.
+![go_learning_path](https://github.com/user-attachments/assets/f6f2e0da-fa1a-4cb7-bc32-32adabc6daed)
 
 Each node represents an exercise I completed and a concept I practiced — from variables, loops, and slices to interfaces, methods, and error handling.
 In this repository, each folder represents a single exercise.
